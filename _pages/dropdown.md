@@ -1,11 +1,14 @@
 ---
 layout: page
-title: submenus
+title: Work
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Courses
+      permalink: /courses/
+    - title: divider
+    - title: Experience
+      permalink: /experience/
     - title: divider
     - title: projects
       permalink: /projects/
