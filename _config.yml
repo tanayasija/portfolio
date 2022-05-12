@@ -142,7 +142,7 @@ kramdown:
 include: ['_pages']
 exclude:
   - _pages/publications.md
-  - _pages/teaching.md 
+  - _pages/teaching.md
   - bin
   - Gemfile
   - Gemfile.lock

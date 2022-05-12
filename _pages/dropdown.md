@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: work
 nav: true
 dropdown: true
 children: 
@@ -9,7 +9,4 @@ children:
     - title: divider
     - title: Experience
       permalink: /experience/
-    - title: divider
-    - title: projects
-      permalink: /projects/
 ---
